@@ -52,12 +52,6 @@ const app = {
             image: "assets/img/vilongconthuong.jpg"
         },
         {
-            name: "Một Ngày Anh Nhớ Đến Em",
-            singer: "Huỳnh James, Pjnboys",
-            path: "assets/music/MotNgayAnhNhoDenEm.mp3",
-            image: "assets/img/motngayanhnhodenem.jpg"
-        },
-        {
             name: "Quả Phụ Tướng",
             singer: "Dung Hoàng Phạm",
             path: "assets/music/QuaPhuTuong.mp3",
